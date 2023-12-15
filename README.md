@@ -31,3 +31,19 @@ The described project aims to address the challenges faced by dermatologists in 
   
 **5) Lesion Type Prediction:**
 * The extracted features are also used to predict lesion label using proper loss functions
+
+
+
+**Sample Images**
+![sample_images](https://github.com/PriyanshiAgrawal1345/SkinScanAI/assets/128245760/44c4ffac-7f6c-40f0-ad8d-c3169cbba2ab)
+
+**Prediction of TestLabels**
+![output_PredictedLabels](https://github.com/PriyanshiAgrawal1345/SkinScanAI/assets/128245760/2b681a82-5e51-47d2-a3f4-d3f869969922)
+Accuracy: 69.5%
+
+**Prediction of Masks of testImages**
+![predictedTestMasks](https://github.com/PriyanshiAgrawal1345/SkinScanAI/assets/128245760/4b0cce12-088f-465e-b88b-fb6d30b95450)
+
+
+**PerformanceEvaluationValidationMasks**
+![PerformanceEvaluationValidationMasks](https://github.com/PriyanshiAgrawal1345/SkinScanAI/assets/128245760/26f87069-b670-4e27-98e8-139249546230)
