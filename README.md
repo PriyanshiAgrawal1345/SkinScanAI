@@ -6,13 +6,13 @@ The described project aims to address the challenges faced by dermatologists in 
 * https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-classification
 * The study uses a dataset comprising 10,000 images and masks for seven types of skin lesions:
      1.) Actinic keratoses and intraepithelial carcinoma(AKIEC):  Rough, scaly patches on the skin caused by sun damage is an early form of skin 
-                                                                   cancer that is confined to the outer layer of the skin.
-     2.) Basal cell carcinoma(BCC): Most common type of skin cancer, usually appearing as a pearly or waxy bump. 
-     3.) Benign keratosis-like lesions(BKL): Harmless and non-cancerous growths resembling keratosis, such as seborrheic keratosis.  
-     4.) Dermatofibroma(DF): Non-cancerous benign skin growth that often appears on the lower legs.
-     5.) **Melanoma(MEL)**: Most dangerous type of skin cancer that develops from pigment-containing cells called melanocytes. 
-     6.) Melanocytic nevi(NV): Non-cancerous benign, pigmented growths on the skin commonly known as moles. 
-     7.) Vascular lesions(VASC): Most are benign, meaning they are not cancerous. However, certain rare types, like angiosarcoma, can be malignant.
+                                                                   cancer that is confined to the outer layer of the skin. <br/>
+     2.) Basal cell carcinoma(BCC): Most common type of skin cancer, usually appearing as a pearly or waxy bump. <br/>
+     3.) Benign keratosis-like lesions(BKL): Harmless and non-cancerous growths resembling keratosis, such as seborrheic keratosis.<br/>  
+     4.) Dermatofibroma(DF): Non-cancerous benign skin growth that often appears on the lower legs.<br/>
+     5.) **Melanoma(MEL)**: Most dangerous type of skin cancer that develops from pigment-containing cells called melanocytes. <br/>
+     6.) Melanocytic nevi(NV): Non-cancerous benign, pigmented growths on the skin commonly known as moles. <br/>
+     7.) Vascular lesions(VASC): Most are benign, meaning they are not cancerous. However, certain rare types, like angiosarcoma, can be malignant.<br/>
 * Data augmentation techniques, such as horizontal and vertical image rotation, are employed to increase the dataset size, resulting in 30,000 images 
   and 30,000 masks.
 
